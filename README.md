@@ -1,6 +1,6 @@
 # Hand-Detection-and-Tracking
 
-##Pre-requisites
+## Pre-requisites
 
 ### You need to install OpenCV and Mediapipe python libraries before running this project.
 
